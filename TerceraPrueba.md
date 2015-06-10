@@ -1,12 +1,11 @@
 # proyectoTerceraPrueba
-Directorio proyecto tercera prueba - Sección 70
+Directorio proyecto tercera prueba -
 integrantes:
     -Consuelo Castro.
     -Luis Ortega.
     -Giovanni Medina.
     -Alberto Riquelme.
 
- Sección: 70.
  
  Enunciado:
     El programa en Java,calcula el porcentaje de  descuento del total de una compra,teniendo como maximo
