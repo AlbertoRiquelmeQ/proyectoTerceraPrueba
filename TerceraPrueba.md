@@ -9,7 +9,7 @@ integrantes:
  
  Enunciado:
     El programa en Java,calcula el porcentaje de  descuento del total de una compra,teniendo como maximo
-  de descuento un 60% del total de la compra.
+  de descuento un 60%.
   Teniendo como opciones de compra:  vestuario, jugeteria, calzado y deporte.
   En vestuario: de 1 a 5 productos obtienes un 5% de descuento, de 6 a 10  productos un 15%
   de descuento, y por más de 11 productos un 20% de descuento.
